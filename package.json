@@ -1,0 +1,7 @@
+{
+  "name": "pika-tsx-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
